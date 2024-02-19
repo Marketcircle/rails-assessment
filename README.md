@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Read the **README** fully.
-- You will create this application using Rails 7 with SQLite
+- You will create this application using Rails 7 with SQLite using Ruby 3.x (preferably 3.3).
 
 ## The Main Objectives
 
